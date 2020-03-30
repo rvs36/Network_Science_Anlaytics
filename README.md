@@ -37,4 +37,4 @@ The following models were compared:
 
 ## Results
 
-![alt text](https://github.com/rvs36/Network_Science_Anlytics/blob/master/Resluts.JPG)
+![alt text](https://github.com/rvs36/Network_Science_Anlaytics/blob/master/Results.JPG)
