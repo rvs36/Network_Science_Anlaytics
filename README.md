@@ -31,7 +31,7 @@ node pairs.
 
 The following models were compared:  
 A. XGBoost (Random search for hyperparameter tuning)  
-B. AdaBoost 
+B. AdaBoost  
 C. Random Forest  
 D. Support Vector Classifier
 
