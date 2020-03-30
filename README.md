@@ -29,11 +29,11 @@ node pairs.
 2. Feature Engineering  
 3. Predictive modelling  
 
-The following models were compared:
-⋅⋅⋅A. XGBoost (Random search for hyperparameter tuning)
-⋅⋅⋅B. AdaBoost 
-⋅⋅⋅C. Random Forest
-⋅⋅⋅D. Support Vector Classifier
+The following models were compared:  
+A. XGBoost (Random search for hyperparameter tuning)  
+B. AdaBoost 
+C. Random Forest  
+D. Support Vector Classifier
 
 ## Results
 
